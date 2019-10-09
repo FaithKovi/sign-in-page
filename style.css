@@ -1,0 +1,59 @@
+html, body{
+  background: linear-gradient(180deg, aliceblue 50%, white 50%);
+}
+#container{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnrhHamOT14vgaTRm8-fXbnazV5u5MnudPOQXTAxtOqof7cPqd);
+  text-align: center;
+  align-content: center;
+  image-resolution: from-image;
+  margin-left: 400px;
+  margin-right: 100px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 400px;
+  padding-left: 40px;
+  padding-right: 60px;
+  width: 20%;
+  height: 280px;
+  border-radius: 15px;
+  display: block;
+}
+img{
+  width: 100px;
+  margin-top: 80px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+#humid p{
+  color: white;
+  padding-bottom: 10px;
+  margin-top: 100px;
+  font-family: cursive;
+
+}
+#details p{
+  display: block;
+  padding-top: 10px;
+  color: white;
+  padding-bottom: 5px;
+}
+#button{
+  padding-bottom: 40px;
+  width: 100%;
+  margin-top: 100px;
+  margin-bottom: 10px;
+  align-content: center;
+  margin-left: auto;
+}
+.Signin-button{
+  border-radius: 20px;
+  border-color: white;
+  background-color: white;
+  width: 60%;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  box-shadow: 0px 0px 2px 2px blue;
+}
